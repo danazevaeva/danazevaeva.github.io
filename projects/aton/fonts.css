@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Gotham';
+  src: local('Gotham'), local('Inter'), local('SF Pro Display');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: local('Gotham Bold'), local('Inter Bold'), local('SF Pro Display Bold');
+  font-weight: 700;
+  font-style: normal;
+}

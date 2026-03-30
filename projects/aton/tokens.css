@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* ATON White Theme Color Tokens */
+@theme {
+  --color-c0: #FFFFFF;
+  --color-c1: #202020;
+  --color-c2: #8D9398;
+  --color-c4: #E3E9EF;
+  --color-c5: #EFF3F7;
+  --color-c6: #F8FBFD;
+  --color-c9: #F4A42C;
+  --color-c10: #22C275;
+  --color-c12: #D8013E;
+  --color-c13: #E8E2FF;
+  --color-c14: #7000FF;
+}
