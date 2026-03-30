@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__plugin_context7_context7__resolve-library-id",
+      "mcp__plugin_context7_context7__query-docs",
+      "Bash(git init:*)",
+      "Bash(pnpm init:*)",
+      "Bash(npm install:*)",
+      "Bash(pnpm add:*)",
+      "Bash(pnpm build:*)",
+      "Bash(timeout 5 pnpm dev)",
+      "Bash(lsof -ti:5190)",
+      "Bash(xargs kill:*)",
+      "Bash(lsof -ti:4175)",
+      "Bash(gh auth:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(gh repo:*)",
+      "Bash(git config:*)",
+      "Bash(gh run:*)",
+      "Bash(gh api:*)",
+      "Bash(git push:*)"
+    ]
+  }
+}
